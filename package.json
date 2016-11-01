@@ -1,0 +1,15 @@
+{
+  "name"          : "technicalTest",
+  "version"       : "1.0.0",
+  "description"   : "reads xml data of papers and outputs different data",
+  "main"          : "index.js",
+  "scripts"       : {
+        "start"     : "node index.js",        
+        "server"    : "node index.js"
+  },
+  "author"        : "Divya Gupta",
+  "license"       : "ISC",
+  "dependencies"  : {
+
+  }
+}
